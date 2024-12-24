@@ -1,4 +1,4 @@
-# Patient-Wait-List-
+
 # Patient Waitlist Analysis Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/1168b2f9-a77f-4fa9-bd6a-51dc78aa97d9/ReportSection?experience=power-bi
@@ -58,3 +58,5 @@ Outpatient numbers show relatively stable patterns, indicating consistent demand
 Department-Level Metrics:
 
 Departments like Accident & Emergency, Anaesthetics, and Cardiology have identical avg/median lists (106.94). This suggests a need for further granularity in department-specific metrics.
+
+![Patientwaillist](https://github.com/user-attachments/assets/c52d6693-67d3-4d55-a967-308561a294ec)
